@@ -5,11 +5,11 @@
 - pip install -r requirements.txt
 - python3 main.py
 
-![Image]('images/1.png')
-![Image]('images/3.png')
-![Image]('images/4.png')
-![Image]('images/5.png')
-![Image]('images/6.png')
+![Image](images/1.png)
+![Image](images/3.png)
+![Image](images/4.png)
+![Image](images/5.png)
+![Image](images/6.png)
 
 ### Rules
 
